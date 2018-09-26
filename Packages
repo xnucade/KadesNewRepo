@@ -1,0 +1,13 @@
+Package: com.irepo.boxy3_v3.1b-153.deb
+Section: Tweaks
+Maintainer: Kade
+Architecture: iphoneos-arm
+Version: 
+Depends: mobilesubstrate
+Filename: debs/com.irepo.boxy3_v3.1b-153.deb
+Size: 2,691,442
+MD5sum: C1FFE5CF70FB801EA078F923EF9BDDA5
+Description: Move your icons around
+Name: Boyx
+Author: Kade <xnucade@gmail.com>
+
